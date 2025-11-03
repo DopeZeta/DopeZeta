@@ -1,6 +1,6 @@
 ## 🖥️ DopeZeta
 
-**" Developer • Designer • Programmer"**
+**Developer • Designer • Programmer**
 
 I am a Computer Engineering student passionate to program and create new things. I like to make personal projects to enhance my efficiency, while constantly exploring new technologies and approaches.
 Lately, due to time constraints, I’ve been focusing more on university projects and coursework, which have allowed me to keep learning and applying my skills to real academic challenges.
