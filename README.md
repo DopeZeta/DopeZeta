@@ -5,8 +5,8 @@
 I am a Computer Engineering student passionate to program and create new things. I like to make personal projects to enhance my efficiency, while constantly exploring new technologies and approaches.
 
 Lately, due to time constraints, I’ve been focusing more on university projects and coursework, which have allowed me to keep learning and applying my skills to real academic challenges.
-
 I’m always looking for new challenges and opportunities to grow, both technically and personally, by diving into different areas of software development.
+
 ---
 
 ### 📚 Languages
