@@ -14,6 +14,7 @@ I’m always looking for new challenges and opportunities to grow, both technica
 #
 
 ### soon
-im currently learning a lot of new things so i will update this section soon.
 <img align="left" alt="soon" width="100px" style="padding-right: 10px;" src="https://images.emojiterra.com/openmoji/v13.1/512px/1f51c.png">
+im currently learning a lot of new things so i will update this section soon.
+
 
